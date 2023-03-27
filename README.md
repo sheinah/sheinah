@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sheinah
-- 👀 I’m interested in coding program
-- 🌱 I’m currently learning about coding python
+- 👀 I’m interested in Technology.
+- 🌱 I’m currently learning about Programming.
+- 
 
 <!---
 sheinah/sheinah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
