@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Application developer.
 ---------------------
 
-I currently learning about programming to be a software developer. | Python, HTML, CSS, JavaScript, SQL, NodeJS, ReactJS. Django, Next.JS.
+I currently learning about programming to be a software developer. | Python, HTML, CSS, JavaScript, SQL, Dart, Flutter, NodeJS, ReactJS. Django, Next.JS.
 
 *   🌍  I'm based in Bangkok, Thailand.
 *   ✉️  You can contact me at [Sheinah.ch@gmail.com](mailto:Sheinah.ch@gmail.com)
