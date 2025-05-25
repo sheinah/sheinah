@@ -1,15 +1,14 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sheinah.
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Shanisa Churat.
 ======================================================================================================================================
 
-Software developer.
+Software developer | UX / UI Designer.
 ---------------------
 
-I currently learning about programming to be a software developer. | Python, HTML, CSS, JavaScript, SQL, Dart, Flutter, NodeJS, ReactJS. Django, Next.JS.
+I currently learning about programming to be a software developer. | Figma, HTML, CSS, JavaScript, Dart, Flutter, Python and Full-Stack. 
 
 *   🌍  I'm based in Bangkok, Thailand.
 *   ✉️  You can contact me at [Sheinah.ch@gmail.com](mailto:Sheinah.ch@gmail.com)
-*   🧠  I'm learning Django, Node.JS, React.JS, Python, Dart and Flutter Framework.
-*   🤝  I'm a Software developer.
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
